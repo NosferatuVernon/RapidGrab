@@ -1,0 +1,10 @@
+D:\Repos\RapidGrab file downloader\RapidGrab file downloader\bin\Debug\RapidGrab file downloader.exe.config
+D:\Repos\RapidGrab file downloader\RapidGrab file downloader\bin\Debug\RapidGrab file downloader.exe
+D:\Repos\RapidGrab file downloader\RapidGrab file downloader\bin\Debug\RapidGrab file downloader.pdb
+D:\Repos\RapidGrab file downloader\RapidGrab file downloader\obj\Debug\RapidGrab file downloader.csproj.AssemblyReference.cache
+D:\Repos\RapidGrab file downloader\RapidGrab file downloader\obj\Debug\RapidGrab_file_downloader.Properties.Resources.resources
+D:\Repos\RapidGrab file downloader\RapidGrab file downloader\obj\Debug\RapidGrab file downloader.csproj.GenerateResource.cache
+D:\Repos\RapidGrab file downloader\RapidGrab file downloader\obj\Debug\RapidGrab file downloader.csproj.CoreCompileInputs.cache
+D:\Repos\RapidGrab file downloader\RapidGrab file downloader\obj\Debug\RapidGrab file downloader.exe
+D:\Repos\RapidGrab file downloader\RapidGrab file downloader\obj\Debug\RapidGrab file downloader.pdb
+D:\Repos\RapidGrab file downloader\RapidGrab file downloader\obj\Debug\RapidGrab_file_downloader.Form1.resources
